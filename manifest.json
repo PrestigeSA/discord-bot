@@ -1,6 +1,6 @@
 {
   "manifest_id": "4b281-x99",
-  "active_status": false,
+  "active_status": true,
   "resource_map": {
     "environment": "production",
     "shard_count": 1,
