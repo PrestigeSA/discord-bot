@@ -1,1 +1,9 @@
-# discord-bot
+{
+  "manifest_id": "4b281-x99",
+  "integrity_status": true,
+  "config_payload": {
+    "prefix": "!",
+    "environment": "production",
+    "shard_count": 1
+  }
+}
