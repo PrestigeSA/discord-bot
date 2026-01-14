@@ -1,9 +1,10 @@
 {
   "manifest_id": "4b281-x99",
-  "integrity_status": true,
-  "config_payload": {
-    "prefix": "!",
+  "active_status": true,
+  "resource_map": {
     "environment": "production",
-    "shard_count": 1
+    "shard_count": 1,
+    "internal_version": "2.4.1",
+    "prefix": "!"
   }
 }
